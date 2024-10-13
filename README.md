@@ -1,5 +1,5 @@
-# AI-Password-Generator
-AI-powered Password Generator (In Python).
+# Password-Generator
+Password Generator (In Python).
 
 Author: Prachi Shah (https://www.linkedin.com/in/prachisshah)
 
