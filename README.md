@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 Password Generator (In Python).
 
 Author: Prachi Shah @ https://pcisha.my.canva.site/
